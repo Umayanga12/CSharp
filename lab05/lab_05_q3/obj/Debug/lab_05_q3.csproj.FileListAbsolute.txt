@@ -1,0 +1,16 @@
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\bin\Debug\lab_05_q3.exe.config
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\bin\Debug\lab_05_q3.exe
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\bin\Debug\lab_05_q3.pdb
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\obj\Debug\lab_05_q3.csproj.AssemblyReference.cache
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\obj\Debug\lab_05_q3.csproj.SuggestedBindingRedirects.cache
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\obj\Debug\lab_05_q3.csproj.CoreCompileInputs.cache
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\obj\Debug\lab_05_q3.exe
+E:\NSBM\Y1S2\CS107.3 OOP with C#\C# projects\lab_05_q3\obj\Debug\lab_05_q3.pdb
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\bin\Debug\lab_05_q3.exe.config
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\bin\Debug\lab_05_q3.exe
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\bin\Debug\lab_05_q3.pdb
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\obj\Debug\lab_05_q3.csproj.AssemblyReference.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\obj\Debug\lab_05_q3.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\obj\Debug\lab_05_q3.csproj.CoreCompileInputs.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\obj\Debug\lab_05_q3.exe
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab05\lab_05_q3\obj\Debug\lab_05_q3.pdb
