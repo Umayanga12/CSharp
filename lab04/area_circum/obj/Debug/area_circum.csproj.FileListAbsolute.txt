@@ -1,0 +1,16 @@
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\bin\Debug\area_circum.exe.config
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\bin\Debug\area_circum.exe
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\bin\Debug\area_circum.pdb
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\obj\Debug\area_circum.csproj.AssemblyReference.cache
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\obj\Debug\area_circum.csproj.SuggestedBindingRedirects.cache
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\obj\Debug\area_circum.csproj.CoreCompileInputs.cache
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\obj\Debug\area_circum.exe
+E:\NSBM\Y1S2\CS107.3 OOP with C#\Labs\lab04\area_circum\obj\Debug\area_circum.pdb
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\bin\Debug\area_circum.exe.config
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\bin\Debug\area_circum.exe
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\bin\Debug\area_circum.pdb
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\obj\Debug\area_circum.csproj.AssemblyReference.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\obj\Debug\area_circum.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\obj\Debug\area_circum.csproj.CoreCompileInputs.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\obj\Debug\area_circum.exe
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\lab04\area_circum\obj\Debug\area_circum.pdb
