@@ -1,0 +1,15 @@
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\bin\Debug\net6.0\labsheet.exe
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\bin\Debug\net6.0\labsheet.deps.json
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\bin\Debug\net6.0\labsheet.runtimeconfig.json
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\bin\Debug\net6.0\labsheet.dll
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\bin\Debug\net6.0\labsheet.pdb
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.csproj.AssemblyReference.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.AssemblyInfoInputs.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.AssemblyInfo.cs
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.csproj.CoreCompileInputs.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.dll
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\refint\labsheet.dll
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.pdb
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\labsheet.genruntimeconfig.cache
+F:\OneDrive - NSBM\First Year\Second semester\OOP with C#\Lab sheet\labsheet\obj\Debug\net6.0\ref\labsheet.dll
